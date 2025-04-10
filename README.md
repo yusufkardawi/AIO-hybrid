@@ -1,4 +1,4 @@
-# ✨ Hybrid Network with Prompt Learning for All-in-one Image Restoration ✨
+#  Hybrid Network with Prompt Learning for All-in-one Image Restoration 
 
 ---
 
