@@ -1,7 +1,7 @@
 # Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration
 
 Official implementation of **"Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration"**  
-[[Paper]](./paper/your_paper.pdf)
+[[Paper]](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
 
 ---
 
