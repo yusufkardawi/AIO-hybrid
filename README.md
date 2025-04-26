@@ -52,7 +52,7 @@ Please cite our work if you find it useful:
 ```
 
 ## Contact
-Should you have any question, please contact **<ins>my.kardawi@gmail.com</ins>**
+Should you have any question, please contact **my.kardawi@gmail.com**
 
 ## Acknowledgment
 This project is based on the [PromptIR](https://github.com/va1shn9v/PromptIR.git) and [CAPTNet](https://github.com/Tombs98/CAPTNet.git)
