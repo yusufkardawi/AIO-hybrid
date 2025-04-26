@@ -1,15 +1,14 @@
 # Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration
 
-Official implementation of **"Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration"** 
-Muhammad Yusuf Kardawi, Laksmita Rahadianti
 
 [Muhammad Yusuf Kardawi](https://scholar.google.com/citations?user=SsezH7EAAAAJ&hl=id&authuser=2), [Laksmita Rahadianti](https://scholar.google.com/citations?hl=id&authuser=2&user=zXG3mDwAAAAJ)
 
 
+
 ### News
-- February 8, 2025: Submitted to Jurnal RESTI
+- February 8, 2025: Submitted to [Jurnal RESTI](https://jurnal.iaii.or.id/index.php/RESTI)
 - April 12, 2025: Accepted
-- April 20, 2025: Published Online
+- April 20, 2025: [Published Online](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
 
 ---
 
@@ -49,4 +48,9 @@ Please cite our work if you find it useful:
 }
 ```
 
+## Contact
+Should you have any question, please contact **<ins>my.kardawi@gmail.com</ins>**
+
+## Acknowledgment
+This project is based on the [PromptIR](https://github.com/va1shn9v/PromptIR.git) and [CAPTNet](https://github.com/Tombs98/CAPTNet.git)
 
