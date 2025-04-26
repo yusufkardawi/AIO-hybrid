@@ -20,12 +20,12 @@ Muhammad Yusuf Kardawi, Laksmita Rahadianti
 ## Network Architecture
 
 ## Getting Started
-'''
+```
 conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 conda install tqdm scikit-image matplotlib
 pip install einops lightning scikit-video thop wandb
 pip install thop wandb
-'''
+```
 
 ## Real-world Dataset
 The real-world dataset used in this project can be found at [Google Drive](https://drive.google.com/file/d/1PV2mQSPGQAWSTLSI96mPQD3VlwVmR4zY/view?usp=sharing)
@@ -34,7 +34,7 @@ The real-world dataset used in this project can be found at [Google Drive](https
 ## Citation
 
 Please cite our work if you find it useful:
-'''
+```
 @article{Muhammad Yusuf Kardawi_Laksmita Rahadianti_2025, 
   title={Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration }, 
   volume={9}, 
@@ -47,6 +47,6 @@ Please cite our work if you find it useful:
   month={Apr.}, 
   pages={404 - 415} 
 }
-'''
+```
 
 
