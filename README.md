@@ -6,15 +6,18 @@
 
 
 ### News
-- February 8, 2025: Submitted to [Jurnal RESTI](https://jurnal.iaii.or.id/index.php/RESTI)
+- February 8, 2025: Submitted to Jurnal RESTI
 - April 12, 2025: Accepted
-- April 20, 2025: [Published Online](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
+- April 20, 2025: Published Online
+
+You can download the paper [here](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
 
 ---
 
 > Abstract: Image restoration aims to repair degraded images. Traditional image restoration methods have limited generalization capabilities due to the difficulty in dealing with different types and levels of degradation. On the other hand, contemporary research has focused on multi-degradation image restoration by developing unified networks capable of handling various types of degradation. One promising approach is using prompts to provide additional information on the type of input images and the extent of degradation. Nonetheless, all-in-one image restoration requires a high computational cost, making it challenging to implement on resource-constrained devices. This research proposes a multi-degradation image restoration model based on PromptIR with lower computational cost and complexity. The proposed model is trained and tested on various datasets yet it is still practical for deraining, dehazing, and denoising tasks. By unification convolution, transformer, and dynamic prompt operations, the proposed model successfully reduces FLOPs by 32.07% and the number of parameters by 27.87%, with a comparable restoration result and an SSIM of 34.15 compared to 34.33 achieved by the original architecture for the denoising task.
 
 ---
+
 
 ## Network Architecture
 
