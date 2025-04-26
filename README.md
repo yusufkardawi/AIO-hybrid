@@ -25,7 +25,6 @@ You can download the paper [here](https://jurnal.iaii.or.id/index.php/RESTI/arti
 conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 conda install tqdm scikit-image matplotlib
 pip install einops lightning scikit-video thop wandb
-pip install thop wandb
 ```
 
 ## Real-world Dataset
