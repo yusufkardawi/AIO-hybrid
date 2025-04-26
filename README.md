@@ -1,95 +1,35 @@
-#  Hybrid Network with Prompt Learning for All-in-one Image Restoration 
+# Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration
+
+Official implementation of **"Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration"**  
+[[Paper]](./paper/your_paper.pdf)
 
 ---
 
-## 📖 About the Dataset
-
-This dataset supports the research titled **"Hybrid Network with Prompt Learning for All-in-one Image Restoration"**. It is designed to facilitate the development and evaluation of advanced image restoration techniques.
-
-**Key Information:**
-
-* **Type:** Image Restoration Dataset
-* **Size:** [Provide dataset size here]
-* **Format:** [e.g., JPG, PNG, etc.]
-* **Applications:** Ideal for tasks such as denoising, super-resolution, and deblurring.
+## Abstract
+Image restoration aims to repair degraded images. Traditional image restoration methods have limited generalization capabilities due to the difficulty in dealing with different types and levels of degradation. On the other hand, contemporary research has focused on multi-degradation image restoration by developing unified networks capable of handling various types of degradation. One promising approach is using prompts to provide additional information on the type of input images and the extent of degradation. Nonetheless, all-in-one image restoration requires a high computational cost, making it challenging to implement on resource-constrained devices. This research proposes a multi-degradation image restoration model based on PromptIR with lower computational cost and complexity. The proposed model is trained and tested on various datasets yet it is still practical for deraining, dehazing, and denoising tasks. By unification convolution, transformer, and dynamic prompt operations, the proposed model successfully reduces FLOPs by 32.07% and the number of parameters by 27.87%, with a comparable restoration result and an SSIM of 34.15 compared to 34.33 achieved by the original architecture for the denoising task..
 
 ---
 
-## 📂 Dataset Structure
-
-The dataset is organized intuitively into the following directories:
-
-
-dataset/
-├── train/      # Contains training images, potentially categorized into subfolders
-├── test/       # Contains testing images, potentially categorized into subfolders
-└── metadata/   # Includes metadata files and potentially descriptive information
-
-For specific details about the organization within `train/` and `test/`, and for any metadata descriptions, please refer to the respective subfolders or the `metadata/` directory.
+## Dataset
+The dataset used in this project can be found in the [`dataset/`](./dataset/) directory.
 
 ---
 
-## 📥 How to Access the Dataset
+## Getting Started
 
-Follow these simple steps to access the dataset:
+### Installation
+Clone the repository:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yusufkardawi/dataset.git](https://github.com/yusufkardawi/dataset.git)
-    cd dataset
-    ```
-2.  **Navigate:** Browse the cloned repository to find the `train/`, `test/`, and `metadata/` folders.
-3.  **Detailed Instructions:** For specific usage guidelines and details about the dataset contents, please consult the README files within the individual dataset folders or the information provided in the `metadata/` directory.
+git clone https://github.com/your-username/your-repo-name.git
 
----
-
-## 🛠️ How to Use
-
-To integrate this dataset into your project:
-
-* Refer to the usage instructions detailed in the associated research paper.
-* Load the dataset using your preferred programming language and relevant libraries for image processing.
-
----
-
-## 📄 Citation
-
-If you utilize this dataset in your academic or research work, please cite the following publication:
+Run inference on sample images:
+python main.py --input_dir ./dataset/sample_images/ --output_dir ./results/
 
 
-@article{your_paper_citation,
-title={Hybrid Network with Prompt Learning for All-in-one Image Restoration},
-author={Your Name},
-journal={Your Journal Name},
-year={2025}
+Please cite our work if you find it useful:
+@article{your_citation_key,
+  title={Paper Title},
+  author={Your Name and Collaborator Name},
+  journal={Conference/Journal},
+  year={2025}
 }
-
-**Remember to replace `your_paper_citation`, `Your Name`, `Your Journal Name`, and `2025` with the correct details of your publication.**
-
----
-
-## 🚀 Resources
-
-* **Research Paper:** [Add the paper link here]
-* **Documentation:** [Add link to documentation if applicable]
-* **Examples:** [Add link to example usage if applicable]
-
----
-
-## 🤝 Contributing
-
-We highly appreciate contributions that can enhance this dataset. If you have any suggestions, improvements, or find any issues, please do not hesitate to:
-
-* Submit a [pull request](https://github.com/yusufkardawi/dataset/pulls).
-* Open an [issue](https://github.com/yusufkardawi/dataset/issues).
-
----
-
-## 📧 Contact
-
-For any inquiries or further information, please feel free to reach out:
-
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **GitHub:** [@yusufkardawi](https://github.com/yusufkardawi)
-
----
