@@ -4,7 +4,7 @@
 [Muhammad Yusuf Kardawi](https://scholar.google.com/citations?user=SsezH7EAAAAJ&hl=id&authuser=2), [Laksmita Rahadianti](https://scholar.google.com/citations?hl=id&authuser=2&user=zXG3mDwAAAAJ)
 
 
-- [https://img.shields.io/badge/any_text-you_like-blue](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
+[https://img.shields.io/badge/any_text-you_like-blue](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381)
 
 ### News
 - February 8, 2025: Submitted to Jurnal RESTI
