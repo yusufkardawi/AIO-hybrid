@@ -20,7 +20,7 @@ You can download the paper [here](https://jurnal.iaii.or.id/index.php/RESTI/arti
 
 ## Network Architecture
 
-![Network Architecture]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/yusufkardawi/AIO-hybrid/blob/main/proposed.png?raw=true))
+![Network Architecture](https://raw.githubusercontent.com/yusufkardawi/AIO-hybrid/refs/heads/main/proposed.png)
 
 ## Getting Started
 ```
