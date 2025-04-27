@@ -20,6 +20,8 @@ You can download the paper [here](https://jurnal.iaii.or.id/index.php/RESTI/arti
 
 ## Network Architecture
 
+![Network Architecture]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/yusufkardawi/AIO-hybrid/blob/main/proposed.png?raw=true))
+
 ## Getting Started
 ```
 conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 pytorch-cuda=12.1 -c pytorch -c nvidia
